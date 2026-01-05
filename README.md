@@ -26,7 +26,9 @@
       Foi então que o guerreiro decidiu com toda a sua miseravel força, chamar a bela moça para sair, mas a bela moça... Não respondeu!
       Entretanto no dia seguinte ela explicou que ela sofria de uma maldição imposta por uma bruxa, que a fazia dormir muito e explicou
       que em qualquer momento e em qualquer lugar ela adormece, apos analises meticulosas sobre a maldição da bruxa, o jovem guerreiro
-      conseguiu marcar de sair com a sua princesa, o tempo passou... decidiram namorar, desde o inicio o
+      conseguiu marcar de sair com a sua princesa, o tempo passou... decidiram namorar, desde o inicio o eles vem se cuidando, se amando,
+      aprendendo, caindo e tambem levantando e como bons guerreiros tambem lutando, contra as inseguranças, paranóias, medos e diferenças,
+      
       
       
       
@@ -49,12 +51,19 @@
   <div class="divider"></div>
 
   <section class="gallery">
-    <h2>Nossos Momentos</h2>
-   fotos aqui nessa porra
-    <img src="foto01.jpg">
-<img src="foto2.jpg">
+  <h2>Nossos Momentos</h2>
 
-  </section>
+  <figure class="photo">
+    <img src="foto1.jpg" alt="Nosso primeiro encontro">
+    <figcaption>📅 14/02/2024 — Nosso primeiro encontro</figcaption>
+  </figure>
+
+  <figure class="photo">
+    <img src="foto2.jpg" alt="Viagem juntos">
+    <figcaption>📅 20/07/2024 — Nossa primeira viagem</figcaption>
+  </figure>
+
+</section> 
 
   <div class="divider"></div>
 
