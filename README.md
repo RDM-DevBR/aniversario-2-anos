@@ -58,23 +58,28 @@
   <h2>Nossos Momentos</h2>
 
   <figure class="photo">
-    <img src="foto1.jpg" alt="0.6">
-    <figcaption>📅 30/01/24 — 0.6</figcaption>
+    <img src="foto1.jpg" alt="0.0">
+    <figcaption>📅 30/01/24 — 0.0</figcaption>
   </figure>
 
   <figure class="photo">
-    <img src="foto2.jpg" alt="1.0">
-    <figcaption>📅 03/08/24 — 1.0</figcaption>
+    <img src="foto2.jpg" alt="0.6">
+    <figcaption>📅 03/08/24 — 0.6</figcaption>
   </figure>
 
 <figure class="photo">
-    <img src="foto3.jpg" alt="1.6">
-    <figcaption>📅 25/12/24 — 1.0</figcaption>
+    <img src="foto3.jpg" alt="1.0">
+    <figcaption>📅 25/12/24 — 1.0(quase)</figcaption>
   </figure>
 
 <figure class="photo">
-    <img src="foto4.jpg" alt="2.0">
-    <figcaption>📅 03/08/24 — 1.0</figcaption>
+    <img src="foto4.jpg" alt="1.6">
+    <figcaption>📅 10/08/25 — 1.6</figcaption>
+  </figure>
+
+<figure class="photo">
+    <img src="foto5.jpg" alt="2.0">
+    <figcaption>📅 10/08/25 — 2.0</figcaption>
   </figure>
 
 </section> 
