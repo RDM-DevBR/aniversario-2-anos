@@ -25,7 +25,8 @@
       que ele via pela tela de seu celular.
       Foi então que o guerreiro decidiu com toda a sua miseravel força, chamar a bela moça para sair, mas a bela moça... Não respondeu!
       Entretanto no dia seguinte ela explicou que ela sofria de uma maldição imposta por uma bruxa, que a fazia dormir muito e explicou
-      que em qualquer momento e em qualquer lugar ela adormece
+      que em qualquer momento e em qualquer lugar ela adormece, apos analises meticulosas sobre a maldição da bruxa, o jovem guerreiro
+      conseguiu marcar de sair com a sua princesa, o tempo passou... decidiram namorar, desde o inicio o
       
       
       
