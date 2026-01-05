@@ -38,11 +38,18 @@
   <div class="divider"></div>
 
   <section>
-    <h2>Por que eu te amo</h2>
+    <h2>Por que eu te amo!?</h2>
     <p>• Seu sorriso muda meu dia</p>
     <p>• Seu abraço acalma tudo</p>
-    <p>• Porque com você tudo faz sentido</p>
+    <p>• Porque com você tudo fica mais prazeroso</p>
     <p>• Porque você é minha escolha todos os dias</p>
+    <p>• Porque você me apoia sempre</p>
+    <p>• Por você me amar calmamente </p>
+    <p>• Pela sua lealdade comigo </p>
+    <p>• Porque você me motiva </p>
+    <p>• Porque é você que eu vejo ao meu lado </p>
+    <p>• E é você que eu quero! </p>
+    
   </section>
 
   <div class="divider"></div>
