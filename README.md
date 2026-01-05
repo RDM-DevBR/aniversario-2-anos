@@ -49,7 +49,7 @@
 
   <section class="gallery">
     <h2>Nossos Momentos</h2>
-    <p>(adicione as fotos aqui 🥰)</p>
+    <p>(ofof01.jpeg)</p>
   </section>
 
   <div class="divider"></div>
