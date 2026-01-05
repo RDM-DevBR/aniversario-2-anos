@@ -3,7 +3,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>2 Anos de Nós 🖤</title>
+  <title>2 Anos de Nós S2</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
