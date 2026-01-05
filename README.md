@@ -83,11 +83,6 @@
   <section class="gallery">
     <h2>Nossos Momentos</h2>
     <p>(adicione as fotos aqui 🥰)</p>
-
-    <!-- EXEMPLO:
-    <img src="foto1.jpg">
-    <img src="foto2.jpg">
-    -->
   </section>
 
   <div class="divider"></div>
