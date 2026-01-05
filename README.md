@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  Nosso 2°Ano juntos 
+ <title> Nosso 2°Ano juntos </title> 
 </head>
 <body>
 
