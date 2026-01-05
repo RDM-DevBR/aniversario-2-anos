@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
 
- <title>Nosso 2Ano juntos</title> 
-
-</head>
 <body>
 
   <section>
-    <h1>Dois anos… e ainda parece o começo 🖤</h1>
+    <h1>Dois anos… de muito amor🖤</h1>
     <p>Um pedacinho da nossa história, feito só pra você.</p>
   </section>
 
