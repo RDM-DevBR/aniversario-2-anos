@@ -49,7 +49,8 @@
 
   <section class="gallery">
     <h2>Nossos Momentos</h2>
-    <p>(adicione as fotos aqui 🥰)</p>
+    <p>(adicione as![h112a](https://github.com/user-attachments/assets/a6dc09bf-1274-424b-bbbc-4f14a6453028)
+ fotos aqui 🥰)</p>
   </section>
 
   <div class="divider"></div>
@@ -64,7 +65,8 @@
   </section>
 
   <footer>
-    Feito com amor 🖤
+    Feito com amor🖤
+    Ass: Nerd Gostoso
   </footer>
 
 </body>
