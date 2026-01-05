@@ -14,7 +14,9 @@
     <h2>Nossa História</h2>
     <p>
       Há dois anos atrás, sem perceber, eu começava a viver uma das melhores partes
-      da minha vida. Entre risadas, apoio e carinho, você virou meu lugar seguro.
+      da minha vida. Entre risadas, apoio e carinho, você virou meu lugar seguro, Se não fosse pelo Tinder
+      nada disso teria acontecido 
+      
     </p>
   </section>
 
