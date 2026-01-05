@@ -49,7 +49,9 @@
 
   <section class="gallery">
     <h2>Nossos Momentos</h2>
-    <p>ofof01.jpeg</p>
+    <img src="ofof01.jpeg">
+<img src="foto2.jpg">
+
   </section>
 
   <div class="divider"></div>
