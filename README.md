@@ -49,7 +49,8 @@
 
   <section class="gallery">
     <h2>Nossos Momentos</h2>
-    <img src="ofof01.jpeg">
+   fotos aqui nessa porra
+    <img src="foto01.jpg">
 <img src="foto2.jpg">
 
   </section>
