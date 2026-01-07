@@ -10,7 +10,7 @@
 
   <section>
     <h1>Dois anos… de muito amor🖤</h1>
-    <p>Um pedacinho da nossa história, feito só pra você.</p>
+    <p>Inicialmente isso era apenas uma página em branco, mas nós escrevemos nossas histórias então aí vai pedacinho da nossa história, feito só pra você.</p>
   </section>
 
   <div class="divider"></div>
