@@ -27,7 +27,7 @@
       que em qualquer momento e em qualquer lugar ela adormece, apos analises meticulosas sobre a maldição da bruxa, o jovem guerreiro
       conseguiu quebrar a maldição da bruxa e então marcar de sair com a sua princesa, o tempo passou... decidiram namorar, desde o inicio eles vem se cuidando, se amando,
       aprendendo, caindo e também levantando e como bons guerreiros lutando, contra as inseguranças, paranoias, medos e diferenças,
-      todos os dias continuam lutando, para que no final eles encontrem o final feliz!! 
+      todos os dias continuam lutando, para que no fim eles encontrem o final feliz!! 
       Mas por fora dessa narrativa diferente do inicio de nossa historia, eu quero que você saiba que eu te amo muito e que estarei aqui pra ti!
       Feliz 2.0 anos meu amor, meu moranguete 🖤🖤🖤🖤🖤🖤
       
